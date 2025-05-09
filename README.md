@@ -1,4 +1,4 @@
-## Project Long Short-Term Memory (LSTM) with 7 Stock
+## Project Long Short-Term Memory (LSTM) with 7 Stocks
 
 This project uses deep learning techniques to predict the next-day closing price of selected stocks by applying a Long Short-Term Memory (LSTM) model. The data is sourced from [Yahoo Finance](https://finance.yahoo.com/) for each stock. 
 
